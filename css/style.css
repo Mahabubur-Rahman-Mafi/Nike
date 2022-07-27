@@ -1,0 +1,20 @@
+.header-section{
+    background-image: url(../images/bg.png);
+}
+.casual-sheo-section .card img{
+    height: 327px;
+    padding: 0px 15px;
+    width: 100%;
+}
+.formal-shoe-section .card img{
+    height: 327px;
+    padding: 0px 15px;
+    width: 100%;
+}
+.about-section .fit{
+    width: 489px;
+    height: 135px;
+}
+.about-section .fit img{
+
+}
